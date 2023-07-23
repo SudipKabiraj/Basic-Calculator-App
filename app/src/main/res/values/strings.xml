@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <!--cardView-->
+    <string name="opText">0</string>
+
+    <!--row1-->
+    <string name="clr">Clr</string>
+    <string name="mod">%</string>
+    <string name="del">Del</string>
+    <string name="div">/</string>
+    <!--row2-->
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="mul">X</string>
+    <!--row3-->
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="sub">-</string>
+    <!--row4-->
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="add">+</string>
+    <!--row5-->
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+
+
+</resources>
